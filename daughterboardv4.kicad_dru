@@ -1,0 +1,4 @@
+(version 1)
+(rule "restrict_via_in_pad"
+    (constraint physical_hole_clearance (min 0.3mm))
+    (condition "A.Type == 'via' && B.Type == 'pad' && B.Pad_Type == 'SMD'"))

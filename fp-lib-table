@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "mic_MMICT5838-00-012") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MMICT5838_00_012 (2)/footprints.pretty") (options "") (descr ""))
+	(lib (name "ldo_NCP170AXV180T2G") (type "KiCad") (uri "${KIPRJMOD}/Libraries/NCP170AXV180T2G/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "conn_DF30FC24DP04V81") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SamacSys/SamacSys_Parts.pretty") (options "") (descr ""))
+	(lib (name "volshift_TXS0104EBQAR") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_TXS0104EBQAR (1)/KiCADv6/footprints.pretty") (options "") (descr ""))
+)
