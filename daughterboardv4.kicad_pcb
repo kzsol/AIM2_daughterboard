@@ -3738,7 +3738,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "Edge.Cuts")
+		(layer "Dwgs.User")
 		(uuid "eb3c361d-1a30-486f-bbae-a189039f4b5d")
 		(pts
 			(xy 136.5 83.675) (xy 145 83.675)
@@ -3763,7 +3763,7 @@
 		)
 		(gr_text "8.5"
 			(at 140.75 81.475 0)
-			(layer "Edge.Cuts")
+			(layer "Dwgs.User")
 			(uuid "eb3c361d-1a30-486f-bbae-a189039f4b5d")
 			(effects
 				(font
