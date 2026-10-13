@@ -3297,6 +3297,96 @@
 		)
 		(uuid "fd112f25-375a-4248-82e5-fb083e61d868")
 	)
+	(label "DFSDM1_DATIN4"
+		(at 96.52 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "043800c1-d252-4dd4-b9ae-7e1988898b8a")
+	)
+	(label "INTERRUPT_EXTI4"
+		(at 95.25 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3cc98351-d3d9-4247-9874-2a3f22bf29ca")
+	)
+	(label "MIC_CLK"
+		(at 158.75 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "51f65ce7-2be3-4ead-8ba7-17cdc4c9d6b6")
+	)
+	(label "MIC_CLK"
+		(at 158.75 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "985ef2d1-052c-4d38-bc36-a9a59c40b3ad")
+	)
+	(label "MIC_THSEL"
+		(at 158.75 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "993edfd2-aca1-421b-9ea0-28f2562261a8")
+	)
+	(label "MIC_DATA"
+		(at 158.75 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a1f0e846-93f2-4d3e-84e0-27ba5fabaaf4")
+	)
+	(label "USART_TX"
+		(at 102.87 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a4393bef-47ab-461b-8b20-146ab13dba9f")
+	)
+	(label "MIC_WAKE"
+		(at 158.75 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "af670cf1-50d4-4d81-9280-d22db4475ff2")
+	)
+	(label "DFSDM1_CKIN4"
+		(at 97.79 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cff8dc12-7aa9-472e-82c3-2b3bd0455447")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 162.56 138.43 90)
