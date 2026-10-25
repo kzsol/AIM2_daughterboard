@@ -1893,7 +1893,7 @@
 			(uuid "b23a80fe-51e9-4d4d-a97c-db6dea10648a")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/ul_TXS0104EBQAR (1)/BQA0014A.stp"
+		(model "${KIPRJMOD}/../Libraries/ul_TXS0104EBQAR (1)/BQA0014A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1922,7 +1922,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP170AXV180T2G"
+		(property "Value" "SOT-563_1P3X1P7_ONS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1934,7 +1934,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "NCP170AXV180T2G"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ncp170-d.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2242,7 +2242,7 @@
 			(uuid "c0b862b3-270e-40fb-b97a-c32d9f16465e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/NCP170AXV180T2G/SOT-563_1P3X1P7_ONS.step"
+		(model "${KIPRJMOD}/../Libraries/NCP170AXV180T2G/SOT-563_1P3X1P7_ONS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2844,7 +2844,7 @@
 			(uuid "f636f408-2c02-41c1-9f33-30857faf8ff4")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/SamacSys/SamacSys_Parts.3dshapes/DF30FC-24DP-0.4V_81_.stp"
+		(model "${KIPRJMOD}/../Libraries/SamacSys/SamacSys_Parts.3dshapes/DF30FC-24DP-0.4V_81_.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3479,7 +3479,7 @@
 			(uuid "6720d4fb-fce6-46d2-a527-1be84d490ecd")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Libraries/MMICT5838_00_012 (2)/MMICT5838-00-012--3DModel-STEP-510211.STEP"
+		(model "${KIPRJMOD}/../Libraries/MMICT5838_00_012 (2)/MMICT5838-00-012--3DModel-STEP-510211.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
