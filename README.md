@@ -14,5 +14,5 @@ Custom symbol and footprint libraries
   
 Clone or extract the entire project folder.  
 Install KiCAD version 10.0.  
-Open `daughterboardv4.kicad_pro` in project folder.  
-Open `daughterboardv4.kicad_sch` / `daughterboardv4.kicad_pcb` under Project Files tab, or click on `Schematic Editor` / `PCB Editor` on the right tab to access the schematic and PCB.  
+Open `daughterboardv_.kicad_pro` in project's latest version folder.  
+Open `daughterboardv_.kicad_sch` / `daughterboardv_.kicad_pcb` under Project Files tab, or click on `Schematic Editor` / `PCB Editor` on the right tab to access the schematic and PCB.  
