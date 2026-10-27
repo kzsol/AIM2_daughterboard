@@ -1,18 +1,19 @@
 # AIM2_daughterboard
-## Project overview:  
+## Overview:  
   
-Design of an add-on board for AIM-2  
-KiCAD v10.0  
++ Design of an add-on microphone interface board for AIM-2, stackable through Mezzanine connectors  
++ KiCad v10.0  
++ Latest design version: v5  
   
-## Project contents:  
+## Contents:  
   
-Schematic and PCB layout  
-Project design rules  
-Custom symbol and footprint libraries  
++ Schematic and PCB layout  
++ Custom design rules following PBCWay capabilities  
++ Custom symbol and footprint libraries  
   
-## Opening the project:  
+## Quick Start:  
   
-Clone or extract the entire project folder.  
-Install KiCAD version 10.0.  
-Open `daughterboardv_.kicad_pro` in project's latest version folder.  
-Open `daughterboardv_.kicad_sch` / `daughterboardv_.kicad_pcb` under Project Files tab, or click on `Schematic Editor` / `PCB Editor` on the right tab to access the schematic and PCB.  
+1. Clone and extract the entire project folder.  
+2. [Install KiCad](https://www.kicad.org/download/) (version 10.0 or later is needed to open this project).  
+3. Navigate to project's latest version folder and open `daughterboardv_.kicad_pro`.
+4. On KiCad Project Manager, access the schematic and PCB by opening `daughterboardv_.kicad_sch` / `daughterboardv_.kicad_pcb` under Project Files tab, or click on `Schematic Editor` and `PCB Editor` on the right side.  
